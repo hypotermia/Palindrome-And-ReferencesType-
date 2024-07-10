@@ -1,0 +1,14 @@
+E:\LearnProject\Palindrome\Palindrome\bin\Debug\net6.0\Palindrome.exe
+E:\LearnProject\Palindrome\Palindrome\bin\Debug\net6.0\Palindrome.deps.json
+E:\LearnProject\Palindrome\Palindrome\bin\Debug\net6.0\Palindrome.runtimeconfig.json
+E:\LearnProject\Palindrome\Palindrome\bin\Debug\net6.0\Palindrome.dll
+E:\LearnProject\Palindrome\Palindrome\bin\Debug\net6.0\Palindrome.pdb
+E:\LearnProject\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnProject\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfoInputs.cache
+E:\LearnProject\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfo.cs
+E:\LearnProject\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.csproj.CoreCompileInputs.cache
+E:\LearnProject\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.dll
+E:\LearnProject\Palindrome\Palindrome\obj\Debug\net6.0\refint\Palindrome.dll
+E:\LearnProject\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.pdb
+E:\LearnProject\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.genruntimeconfig.cache
+E:\LearnProject\Palindrome\Palindrome\obj\Debug\net6.0\ref\Palindrome.dll
